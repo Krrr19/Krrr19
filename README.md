@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm [Your Name]!
+
+I'm a beginner in the world of coding and tech — currently learning and building one step at a time. 🌱
+
+### 🚀 About Me
+- 🎓 I'm passionate about tech, creativity, and problem-solving.
+- 📚 Currently learning: **Python, Git, and Web Development**
+- ✨ Goal: To become a skilled developer and build meaningful projects.
+
+### 🛠️ Tools & Tech
+- HTML & CSS (Intermediate!)
+- Python (learning through mini projects)
+- Git & GitHub (to track and share my progress)
+
+### 📫 Let's Connect
+- GitHub: [Krrr19](https://github.com/Krrr19)
+- Email: kihwagaroy@gmail.com
+
+---
+
+_Thanks for visiting my profile! More updates coming soon..._
+
 
 <!--
 **Krrr19/Krrr19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
