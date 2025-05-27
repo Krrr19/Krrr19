@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Roy!
 
-I'm a beginner in the world of coding and tech — currently learning and building one step at a time. 🌱
+I'm a student in the world of coding and tech — currently learning and building one step at a time. 🌱
 
 ### 🚀 About Me
 - 🎓 I'm passionate about tech, creativity, and problem-solving.
